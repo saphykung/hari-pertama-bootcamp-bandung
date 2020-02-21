@@ -1,4 +1,4 @@
-.container {
+/* .container {
     width: 1140;
     margin-left: auto;
     margin-right: auto;
@@ -9,14 +9,20 @@
     width: 65%; float: left;
 }
 
-/*sidebar here*/
+sidebar here
 .sidebar {
     background-color: crimson;
     width: 25%;
     height: 100%;
     float: left;
 }
-
 .profile-post {
     background-color: 
+} */
+
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a
 }
+
